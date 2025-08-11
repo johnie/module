@@ -1,5 +1,5 @@
-import { describe, test, expect } from 'vitest';
-import { sum } from '@/index.js';
+import { describe, expect, test } from 'vitest';
+import { sum } from '@/index';
 
 describe('sum', () => {
   test('adds 1 + 2 to equal 3', () => {
