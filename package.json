@@ -43,7 +43,7 @@
         "@biomejs/biome": "^2.2.4",
         "@changesets/changelog-github": "^0.5.1",
         "@changesets/cli": "^2.29.7",
-        "@types/node": "^24.3.3",
+        "@types/node": "^24.4.0",
         "domhandler": "^5.0.3",
         "jsdom": "^27.0.0",
         "tsup": "^8.5.0",
